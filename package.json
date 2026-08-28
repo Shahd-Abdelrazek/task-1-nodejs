@@ -1,0 +1,16 @@
+{
+  "name": "task-full",
+  "version": "1.0.0",
+  "description": "People management task applying all lecture tools (fs, custom module, validator, process.argv, yargs, json)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.15.35",
+    "yargs": "^17.7.3"
+  }
+}
